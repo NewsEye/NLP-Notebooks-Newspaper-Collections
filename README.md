@@ -2,7 +2,7 @@
 A collection of notebooks for Natural Language Processing
 
 1. [Text classification for topic-specific newspaper collections](#Text-classification-for-topic-specific-newspaper-collections)
-2. [Using LDA and Jensen-Shannon Distance (JSD) to group similar newspaper articles](#Using-LDA and-Jensen-Shannon-Distance-(JSD)-to-group-similar-newspaper-articles)
+2. [Using LDA and Jensen-Shannon Distance (JSD) to group similar newspaper articles](#Using-LDA-and-Jensen-Shannon-Distance-(JSD)-to-group-similar-newspaper-articles)
    
 ## Text classification for topic-specific newspaper collections
 
