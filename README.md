@@ -1,7 +1,7 @@
 # NLP-Notebooks-Newspaper-Collections
 A collection of notebooks for Natural Language Processing
 
-# Text classification for topic-specific newspaper collections
+## Text classification for topic-specific newspaper collections
 <a href="https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections/blob/master/Text_classification_of_newspaper_clippings_notebook.ipynb" target="_blank">Go to notebook</a> 
 
 Text classification is the process of categorizing text into pre-defined groups. By using Natural Language Processing (NLP), text classifiers can automatically analyze text and then assign a set of given categories based on the research question. This automated classification of text into predefined categories is an important method for managing and processing a large number of newspaper clippings. This also applies to subcorpora for a specific research topic (e.g. migration). The aim of this notebook is to train a model using your previously manually created training/test corpus and to use this model to get an overview of the category distribution throughout your collection (see figure below). Another goal is to export your categorized data for further analysis. This makes it possible to examine, for example, the advertisement about a specific topic.
@@ -12,7 +12,7 @@ For classification, topic modelling (LDA) was chosen because it showed the best 
 
 ![Collection on the topic of Emigration](images/categories.PNG)
 
-# Using LDA and Jensen-Shannon Distance (JSD) to group similar newspaper articles
+## Using LDA and Jensen-Shannon Distance (JSD) to group similar newspaper articles
 <a href="https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections/blob/master/news_article_similarity_notebook.ipynb" target="_blank">Go to notebook</a>
 
 Many researchers have the problem that their data sets or automated set annotations contain articles that are irrelevant to their research question. For example, if the goal is to find newspaper articles or "news items" on return migration, researchers have to deal with some ambiguous search terms. The German words "Heimkehr" (returning home) or "Rückkehr" (returning back) lead to many articles that are relevant to the research question, but also to articles that are not relevant (e.g. return from a mountain tour, work, etc.). By using topic models and document similarity measurements, this notebook allows me to exclude these articles without combining the word "Heimkehr" with other search terms. Furthermore, the same code can also be used to remove or prefer a certain genre, e.g. advertising, sports news, etc.
