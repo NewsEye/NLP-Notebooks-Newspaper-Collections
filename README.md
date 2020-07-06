@@ -1,6 +1,8 @@
 # NLP-Notebooks-Newspaper-Collections
 A collection of notebooks for Natural Language Processing
 
+The following notebooks are aimed particularly at digital humanities scholars who use newspapers as a source. The focus lies on (topic-specific) collection building, a field that is becoming increasingly interesting with better article separation. Very specific research problems are addressed, like collection building with ambiguous keywords or working with certain genres. While the NewsEye demonstrator offers the possibility to create datasets quickly and effectively, these notebooks offer possibilities to work on these collections according to specific questions. 
+
 1. [Text classification for topic-specific newspaper collections](#Text-classification-for-topic-specific-newspaper-collections)
 2. [Using LDA and Jensen-Shannon Distance (JSD) to group similar newspaper articles](#Using-LDA-and-Jensen-Shannon-Distance-(JSD)-to-group-similar-newspaper-articles)
    
