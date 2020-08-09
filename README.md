@@ -38,6 +38,8 @@ For the comparison, the Jensen-Shannon distance method is used to measure the si
 
 ## Discover a newspaper collection with diachronic Ngram clouds
 
+<a href="https://github.com/NewsEye/NLP-Notebooks-Newspaper-Collections/blob/master/n-gram_clouds_notebook.ipynb" target="_blank">Go to notebook</a>
+
 Ngrams are connected sequences of n items from a given text or speech sample. This means that words are not considered as individual units, but in relation to each other. For scholars in the humanities, ngrams can be helpful to get an overview of their collection or to identify discourse markers (discourse = a group of related texts belonging to a common system of formation). Ngrams can never be a research result per se - which is true for any output of NLP methods - but they can help to find important patterns in a particular collection.  
 
 ![ngrams](images/WC.PNG)
