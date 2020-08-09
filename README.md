@@ -5,7 +5,7 @@ The following notebooks are aimed particularly at digital humanities scholars wh
 
 1. [Text classification for topic-specific newspaper collections](#Text-classification-for-topic-specific-newspaper-collections)
 2. [Group similar newspaper articles](#Group-similar-newspaper-articles)
-3. [Discover a newspaper collection with diachronic Ngram clouds] (#Discover-a-newspaper-collection-with-diachronic-Ngram-clouds)
+3. [Discover a newspaper collection with diachronic Ngram clouds](#Discover-a-newspaper-collection-with-diachronic-Ngram-clouds)
    
 ## Text classification for topic-specific newspaper collections
 
