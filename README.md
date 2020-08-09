@@ -5,6 +5,7 @@ The following notebooks are aimed particularly at digital humanities scholars wh
 
 1. [Text classification for topic-specific newspaper collections](#Text-classification-for-topic-specific-newspaper-collections)
 2. [Group similar newspaper articles](#Group-similar-newspaper-articles)
+3. [Discover a newspaper collection with diachronic Ngram clouds] (#Discover-a-newspaper-collection-with-diachronic-Ngram-clouds)
    
 ## Text classification for topic-specific newspaper collections
 
@@ -34,4 +35,15 @@ Given a manually annotated collection of articles containing relevant as well as
 For the comparison, the Jensen-Shannon distance method is used to measure the similarity between the topic distribution of an unseen article and the topic distribution of the training corpus. Therefore, the topic distribution of each new article will be compared to the topic distribution of the articles in the trained corpus. Then, for each unseen article, the 10 most similar articles from the training corpus are being extracted. These articles carry the information about the manually assigned relevancy. If 60 precent of the automatically found similar articles were annotated as relevant, the new article will be marked as relevant. Otherwise it will be marked as irrelevant. Using two different datasets (one about cancer and one about return migration), the average score of correct selected articles is between 80 and 90 percent.
 
 ![](images/nk.PNG)
+
+## Discover a newspaper collection with diachronic Ngram clouds
+
+Ngrams are connected sequences of n items from a given text or speech sample. This means that words are not considered as individual units, but in relation to each other. For scholars in the humanities, ngrams can be helpful to get an overview of their collection or to identify discourse markers (discourse = a group of related texts belonging to a common system of formation). Ngrams can never be a research result per se - which is true for any output of NLP methods - but they can help to find important patterns in a particular collection.  
+
+![ngrams](images/WC.PNG)
+
+If ngrams are used to identify discourse markers, it can be useful to crate diachrinic ngrams to explore the change of rextual patterns. This Notebook therefore shows how diachronic ngrams can be build and visualized. For cultural heritage material, visualizations should make it possible to open up and experience the collections in new ways. But they should always be linked to the original documents. 
+
+The graphic representation and the original material cannot be perceived as two different elements, they are rather  interwoven and interact with each other. Therefore, this Notebook allows to browse the original texts within the Notebook. Thus the results of the ngram clouds can be researched in the context of the original text. 
+
 
