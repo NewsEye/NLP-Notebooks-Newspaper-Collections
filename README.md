@@ -6,6 +6,7 @@ The following notebooks are aimed particularly at digital humanities scholars wh
 1. [Text classification for topic-specific newspaper collections](#Text-classification-for-topic-specific-newspaper-collections)
 2. [Group similar newspaper articles](#Group-similar-newspaper-articles)
 3. [Discover a newspaper collection with diachronic Ngram clouds](#Discover-a-newspaper-collection-with-diachronic-Ngram-clouds)
+4. [Discourse in Spanish flu coverage](#Discourse-in-Spanish-flu-coverage)
    
 ## Text classification for topic-specific newspaper collections
 
@@ -47,5 +48,10 @@ Ngrams are connected sequences of n items from a given text or speech sample. Th
 If ngrams are used to identify discourse markers, it can be useful to create diachrinic ngrams to explore the change of rextual patterns. This Notebook therefore shows how diachronic ngrams can be build and visualized. For cultural heritage material, visualizations should make it possible to open up and experience the collections in new ways. But they should always be linked to the original documents. 
 
 The graphic representation and the original material cannot be perceived as two different elements, they are rather  interwoven and interact with each other. Therefore, this Notebook allows to browse the original texts within the Notebook. Thus the results of the ngram clouds can be researched in the context of the original text. 
+
+## Discourse in Spanish flu coverage
+
+<a href="https://github.com/soberbichler/Discourse-in-Spanish-flu-coverage_Notebook/blob/main/Discourse-in-Spanish-flu-coverage_Notebook.ipynb" target="_blank">Go to notebook</a>
+
 
 
