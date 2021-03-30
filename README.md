@@ -51,7 +51,9 @@ The graphic representation and the original material cannot be perceived as two 
 
 ## Discourse in Spanish flu coverage
 
-<a href="https://github.com/soberbichler/Discourse-in-Spanish-flu-coverage_Notebook/blob/main/Discourse-in-Spanish-flu-coverage_Notebook.ipynb" target="_blank">Go to notebook</a>
+<a href="https://mybinder.org/v2/gh/soberbichler/Discourse-in-Spanish-flu-coverage_Notebook/HEAD" target="_blank">Go to notebook</a>
+
+This notebook was created with the aim of using it in workshops and for teaching purposes. The notebook was launched via Binder, which allows one to turn a Jupyter Notebook into a interactive notebook, making the code immediately reproducible by anyone without prior installations. This is especially helpful for digital humanities courses because it allows students to get started with Jupyter Notebooks. The notebook enables the creation of diachronic ngrams and topic visualizations based on exports from the NewsEye Demonstrator.  
 
 ![tm](images/tm.png)
 
