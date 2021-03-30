@@ -53,5 +53,5 @@ The graphic representation and the original material cannot be perceived as two 
 
 <a href="https://github.com/soberbichler/Discourse-in-Spanish-flu-coverage_Notebook/blob/main/Discourse-in-Spanish-flu-coverage_Notebook.ipynb" target="_blank">Go to notebook</a>
 
-![ngrams](images/Screenshot - 30_03.PNG)
+![ngrams](images/tm.PNG)
 
