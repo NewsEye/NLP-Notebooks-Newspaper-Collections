@@ -7,7 +7,7 @@ The following notebooks are aimed particularly at digital humanities scholars wh
 2. [Group similar newspaper articles](#Group-similar-newspaper-articles)
 3. [Discover a newspaper collection with diachronic Ngram clouds](#Discover-a-newspaper-collection-with-diachronic-Ngram-clouds)
 4. [Discourse in Spanish flu coverage](#Discourse-in-Spanish-flu-coverage)
-5. [Uses of the Term Telegraph in the Context of Journalism](#Uses-of-the-Term-Telegraph-in-the-Context-of-Journalism)
+5. [Topic Modeling and Uses of the Term Telegraph in the Context of Journalism](#Topic-Modeling-and-Uses-of-the-Term-Telegraph-in-the-Context-of-Journalism)
    
 ## Text classification for topic-specific newspaper collections
 
@@ -58,7 +58,7 @@ This notebook was created with the aim of using it in workshops and for teaching
 
 ![tm](images/tm.png)
 
-## Uses of the Term Telegraph in the Context of Journalism
+## Topic Modeling and Uses of the Term Telegraph in the Context of Journalism
 
 <a href="https://gitlab.phaidra.org/bekesij9/newseye/-/blob/master/workflow.ipynb" target="_blank">Go to notebook</a>
 
