@@ -58,3 +58,9 @@ This notebook was created with the aim of using it in workshops and for teaching
 
 ![tm](images/tm.png)
 
+## Uses of the Term Telegraph in the Context of Journalism: Introduction to Topic Modeling on a Data Set created by the Newseye Project
+
+<a href="https://gitlab.phaidra.org/bekesij9/newseye/-/blob/master/workflow.ipynb" target="_blank">Go to notebook</a>
+
+This notebook was created by János Békési and Martin Gasteiner with the aim to investigate the usage of the term Telepraph in Austrian historical newspapers. The data analysed in this notebook was exported from the Newseye platform, which is based on the Content Management System Blacklight.The data used here is based on a general search on the basis of the search engine Solr for articles on the word "telegraph" in the following time periods: 1864-1874, 1895-1901, 1911-1922. The search was carried out in the following German-language newspapers, namely Neue Freie Presse, Innsbrucker Nachrichten, Arbeiter Zeitung and Illustrierte Kronen Zeitung. The resulting data package was exported as JSON and processed with regard to topic modelling. The notebooks shows how topic models can be trained, visualized and how diachronic topic models can be created. 
+
