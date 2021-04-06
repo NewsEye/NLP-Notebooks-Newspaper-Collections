@@ -58,7 +58,7 @@ This notebook was created with the aim of using it in workshops and for teaching
 
 ![tm](images/tm.png)
 
-## Uses of the Term Telegraph in the Context of Journalism: Introduction to Topic Modeling on a Data Set created by the Newseye Project
+## Uses of the Term Telegraph in the Context of Journalism (Topic Modeling)
 
 <a href="https://gitlab.phaidra.org/bekesij9/newseye/-/blob/master/workflow.ipynb" target="_blank">Go to notebook</a>
 
