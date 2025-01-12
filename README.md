@@ -1,5 +1,5 @@
 # NLP Notebooks for Newspaper Collections
-Notebooks created by Sarah Oberbichler (oberbichler@ieg-mainz.de)
+Created by Sarah Oberbichler [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-1031-2759)
 
 *A collection of notebooks for Natural Language Processing*
 
